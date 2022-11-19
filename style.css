@@ -1,0 +1,520 @@
+body {
+    background-color: rgb(245, 244, 244);
+}
+#index{
+    background-image: linear-gradient(to bottom right, rgb(128, 245, 81),  rgb(131, 228, 220), rgb(247, 130, 202)) ;
+}
+h3, p,  h1 {
+    font-family: 'Caveat', cursive;
+font-family: 'Lobster', cursive;
+/* font-family: 'Permanent Marker', cursive; */
+}
+.navbar{
+   
+    background-image: linear-gradient(to bottom right, rgb(87, 230, 31), rgb(245, 245, 243), rgb(222, 241, 113))
+ !important;
+}
+.fix {
+    width: 100%;
+    position: fixed !important;
+}
+
+.fonth1{
+    font-family: 'Permanent Marker', cursive;
+
+}
+.head {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgb(255, 167, 229), rgb(231, 231, 225), rgb(213, 253, 148));
+}
+
+.navli {}
+
+.navli:hover {
+    background-color: rgb(29, 31, 31);
+    color: white !important;
+
+}
+
+.navli:active {
+    background-color: rgb(13, 13, 14) !important;
+}
+
+#index {
+    padding-top: 50px;
+}
+
+.qutos {
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+}
+
+.quto {
+
+    font-weight: 200;
+    font-size: 400%;
+    text-align: center;
+
+    margin-top: 30px;
+}
+
+.imgfr1 {
+    width: 100%;
+    height: 450px;
+}
+
+
+.para1d {
+    text-align: left;
+    padding: 3%;
+}
+
+.img33 {
+    width: 100%;
+}
+
+.img1 {
+    width: 33.33%;
+    display: inline;
+    box-shadow: 10px 10px 30px black;
+    transition: transform 2s;
+    transition-delay: 0.5s;
+}
+
+.img1:hover {
+    transform: scale(1.5, 1.5);
+}
+
+.img2 {
+    width: 32.33%;
+    display: inline;
+    box-shadow: 10px 10px 30px black;
+    transition: transform 2s;
+    transition-delay: 0.5s;
+}
+
+.img2:hover {
+
+    transform: scale(1.5, 1.5);
+}
+
+.img3 {
+    width: 33.33%;
+    display: inline;
+    box-shadow: 10px 10px 30px black;
+    transition: transform 2s;
+    transition-delay: 0.5s;
+}
+
+.img3:hover {
+    transform: scale(1.5, 1.5);
+}
+
+
+.logoi {
+
+    text-align: center;
+}
+
+.flogo {}
+
+.logoa {
+    width: 10px;
+    height: 10px;
+    padding: 2%;
+    transition: margin-bottom 3s, transform 2s;
+}
+
+.logoa:hover {
+    transform: scale(2, 2);
+}
+
+.logos {}
+
+.contact {
+    text-align: center;
+    justify-content: center;
+}
+
+.imgbio {
+
+    width: 45%;
+    display: inline;
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 1.5%;
+    margin-left: 25.5%;
+
+
+}
+
+.para2 {
+    font-size: 100%;
+    margin-top: 2%
+}
+
+.head1 {
+    width: 95%;
+    display: inline-block;
+    box-shadow: 10px 10px 30px rgb(238, 82, 82), rgb(227, 253, 110);
+    padding: 5%;
+    margin: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(252, 129, 98); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(138, 51, 253), rgb(245, 245, 243), rgb(250, 229, 44));
+
+
+}
+.head2 {
+    width: 95%;
+    display: inline-block;
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(252, 129, 98); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(252, 150, 33), rgb(245, 245, 243), rgb(100, 185, 241));
+
+
+}.head3 {
+    width: 95%;
+    display: inline-block;
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(252, 129, 98); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(125, 252, 109), rgb(245, 245, 243), rgb(250, 44, 216));
+
+
+}.head4 {
+    width: 95%;
+    display: inline-block;
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(252, 129, 98); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, rgb(99, 174, 236), rgb(245, 245, 243), rgb(253, 143, 143));
+
+}
+
+.para21 {
+    font-size: 180%;
+}
+
+.para22 {
+    font-size: 150%;
+}
+
+/* contact */
+.btnre{
+    border-radius: 10px;
+    color: rgb(252, 247, 241);
+    background-color: #363333;
+    margin: 0.2%;
+    border: none;
+}
+.btna{
+    color: wheat;
+}
+.teami {
+    width: 100%;
+    display: inline;
+
+
+}
+.logoid{
+    justify-content: center;
+    text-align: center;
+}
+.logoni{    width: 40%;
+    
+    height: auto ;
+}
+
+.team {
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 4.5%;
+    margin-right: 4.5%;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 2%;
+}
+
+.ht {
+    display: inline;
+    width: 80%;
+
+}
+
+.pt {
+    display: inline;
+    width: 80%;
+}
+
+.btnt {
+    margin: 2.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.infot {
+    margin: 3%;
+}
+input[type=text],select,textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    }
+    input[type=email]{
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
+    
+.contactcontainer{
+    width: 90%;
+  
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 2%;
+
+}
+.h1{
+    text-align: center;
+}
+
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+/* clicks.html */
+.clicks {
+
+    width: 45%;
+    display: inline;
+    box-shadow: 10px 10px 30px black;
+    padding: 5%;
+    margin: 1.5%;
+
+}
+.namologo{
+    width: 45%;
+    display: inline-block;    
+}
+
+.clicksq {
+    display: inline-block;
+    width: 45%;
+    padding: 5%;
+    margin-top: 2%;
+
+}
+
+.nav-link active navli:focus {
+    background-color: black !important;
+}
+
+.current {
+    color: #09f;
+    border-top: 3px solid #09f;
+}
+
+.para1 {
+    font-size: 220%;
+    text-align: center;
+}
+.thanks{
+    
+    width: 80%;
+    border: 1px solid black;
+   margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(65, 60, 60);
+    color: wheat;}
+.thankspara{
+margin-left: 5%;
+margin-right: 5%;
+padding: 5%;
+
+}
+.thanksbtns{
+    padding: 5%;
+    margin: 5%;
+    display: inline-block;
+    width: 70%;
+}
+.thankbtn{
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+/* responsive */
+@media only screen and (max-width: 880px) {
+
+    .img1 {
+        width: 32.33%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .img2 {
+        width: 31.33%;
+    }
+
+    .img1 {
+        width: 31.33%;
+    }
+
+    .img3 {
+        width: 32.33%;
+    }
+}
+
+.para2d {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 32.5px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 100px) {
+    .flogo {
+        width: 50%;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1330px) {
+    .flogo {
+        width: 50%;
+
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    .para1 {
+        font-size: 313%;
+    }
+
+    .para2 {
+        font-size: 280%;
+    }
+
+    .quto {
+        font-size: 313%;
+    }
+
+    .clicksq {
+        font-size: 130%;
+    }
+
+    .clicksh {
+        font-size: 130%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .para1 {
+        font-size: 225%;
+    }
+
+    .para2 {
+        font-size: 126%;
+    }
+
+    .quto {
+        font-size: 270%;
+    }
+
+    .clicksq {
+        font-size: 65%;
+    }
+
+    .clicksh {
+        font-size: 65%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .para1 {
+        font-size: 150%;
+    }
+
+    .para2 {
+        font-size: 80%;
+    }
+
+    .quto {
+        font-size: 200%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .para1 {
+        font-size: 130%;
+    }
+
+    .para2 {
+        font-size: 48%;
+    }
+
+    .quto {
+        font-size: 130%;
+    }
+
+    .clicksq {
+        font-size: 37%;
+    }
+
+    .clicksh {
+        font-size: 52%;
+    }
+
+    .para22 {
+        font-size: 90%;
+    }
+
+    .para21 {
+        font-size: 150%;
+    }
+}
+
+@media only screen and (max-width: 1330px) {
+    .logofr {
+        width: 50%;
+    }
+}
